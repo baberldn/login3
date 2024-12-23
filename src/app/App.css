@@ -1,0 +1,200 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* .container {
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    position: relative;
+}
+
+.top-section {
+    width:46.2%;
+    background-color: #1AEBB7; 
+    
+}
+
+.bottom-section {
+    width:60%;
+    background-color: #ffff; 
+}
+
+.main {
+    
+    width: 1251px;
+    height: 739px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: row;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+
+.top-half {
+    width:40%;
+    background-color: #1AEBB7; 
+    
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.bottom-half {
+    flex: 1;
+    background-color: #ffff; 
+}
+
+.image {
+    
+    width: 500px;
+    height: 500px;
+    top: 195px;
+    left: 95px;
+    gap: 0px;
+    opacity: 0px;
+
+   
+    object-fit: cover; 
+    border-radius: 10px;
+}
+.login-form {
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    padding: 3%;
+    display: flex;
+    flex-direction: column;
+    width: 526px;
+    height: 504px;
+    position: absolute;
+    top: 50%;
+    right:10%;
+    transform: translateY(-50%);  
+}
+  
+  .form-title {
+    font-size: 80px;
+    line-height: 97.52px;
+    letter-spacing: 6px;
+    font-weight: bold;
+    text-align: left;
+    margin-bottom: 1rem;
+  }
+  
+  .login {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 97.52px;
+    letter-spacing: 6px;
+    text-align: center;
+    color: #000000B2;
+    border: 3px solid #ffffff;
+  }
+  
+  .form-group {
+    margin-bottom: 1.5rem;
+    width: 90%; 
+    height: 58.85px;
+    border: 1px 0px 0px 0px;
+    margin-left: auto;
+    margin-right: auto; 
+  }
+  
+  .form-label {
+    display: block;
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+    color: #555;
+  }
+  
+  .form-input {
+    width: 100%;
+    padding: 0.8rem;
+    font-size: 1rem;
+    border: 1px solid #000000;
+    outline: none;
+  }
+  
+  .form-input:focus {
+    box-shadow: 0 0 0 2px rgba(76, 110, 245, 0.2);
+  }
+  .form-button {
+    height: 60.74px;
+    top: 324.4px;
+    left: 42.73px;
+    background-color: #1AEBB7;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;  
+    align-items: center;  
+    margin-left: 27px;
+    margin-right: auto;
+    width: 233.27px;
+    border: black 1px solid;
+    
+  }
+  
+  .form-button-login {
+    width: auto;  
+    height: 28.47px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 30.48px;
+    text-align: center;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  
+  
+  .form-footer-container {
+    display: flex;
+    flex-direction: column; 
+    gap: 10px; 
+    position: absolute; 
+    top: 324px; 
+    margin-top: 5px;
+    right:10%; 
+    align-items: flex-end; 
+  }
+  
+  .form-footer-password{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24.38px;
+    text-align: left;
+  }
+
+
+  .form-footer-register {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24.38px;
+    text-align: right;
+  }
+  
+  .form-footer-password {
+    width: 100%; 
+  }
+  
+  .form-footer-register {
+    width: 100%;
+  }
+   */
+
+  
